@@ -1,4 +1,4 @@
-# language_support
+# Zipf
 
 A small Flutter project to demonstrate the Zipf's law with different languages.
 
